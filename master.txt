@@ -1,1 +1,3 @@
 A new line
+
+print ("b2")
