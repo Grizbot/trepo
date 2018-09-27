@@ -1,3 +1,5 @@
 a new line in b1
 
 another line b1
+
+another line b1 from b1
